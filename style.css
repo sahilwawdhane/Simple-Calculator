@@ -1,0 +1,37 @@
+.Container{
+    text-align: center;
+    margin-top: 80px;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    padding-bottom: 30px;
+    font-size: 80px;
+}
+
+table{
+    margin:auto;
+}
+
+input{
+    height: 65px;
+    width: 279px;
+    border-radius: 21px;
+    font-size: 34px;
+}
+
+button{
+    height: 50px;
+    width: 60px;
+    border-radius: 20px;
+    font-size: 25px;
+    margin: 6px;
+    background: #702e9f;
+}
+
+.Calculator{
+    background: #161616;
+    padding: 23px;
+    border-radius: 53px;
+    display:inline-block;
+}
